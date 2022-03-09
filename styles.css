@@ -1,0 +1,69 @@
+body { background-color: #f77911}
+
+
+.car {background-color: #f0974d;
+border-radius: 20px;
+height: 200px;
+
+width: 200px;
+transition: background-color .4s;
+}
+.Orange{background-color: #f29b52;
+ height: 200px;
+
+ width: 200px;
+
+ border-radius: 20px;
+
+transition: background-color .4s;
+}
+
+
+.bandar{background-color: #f29b52;
+ height: 200px;
+ width: 200px;
+ border-radius: 20px;
+transition: background-color .4s;
+}
+
+.gajar{background-color: #f29b52;
+ height: 200px;
+ width: 200px;
+ border-radius: 20px;
+transition: background-color .4s;
+}
+
+.diya{background-color: #f29b52;
+ height: 200px;
+ width: 200px;
+ border-radius: 20px;
+transition: background-color .4s ;
+}
+
+.rahul{
+ height: 620px;
+ width: 1px;
+ border-radius: 280px;
+ border-top-left-radius: 100px;
+ border-bottom-left-radius: 100px;
+
+
+transition: border-radius 1s, border-color 0.4s, width 0.3s;
+border-style: solid;
+border-color: #f29b52;
+border-width: 20px;
+margin: auto;
+
+
+}
+
+
+
+.Orange:hover{background-color: #ebc657;}
+.car:hover{background-color: #ebc657;}
+.bandar:hover{background-color: #ebc657;}
+.gajar:hover{background-color: #ebc657;}
+.rahul:hover{border-radius: 30px;
+              border-color: #ebc657;
+            width: 460px;}
+.diya:hover{background-color: #ebc657;}
